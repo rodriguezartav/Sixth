@@ -1,0 +1,122 @@
+!SESSION 2011-12-13 09:09:05.516 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_29
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Users/roberto/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -data /Users/roberto/Dropbox/Proyectos/sixth/force -keyring /Users/roberto/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2011-12-13 09:09:08.384
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 09:09:47.811
+!MESSAGE  WARN [2011-12-13 09:09:47,807] (BaseRetryAspect.java:isLoginExceptionRetryable:95) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 09:09:47.820
+!MESSAGE  WARN [2011-12-13 09:09:47,814] (BaseRetryAspect.java:isConnectionExceptionRetryable:131) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 09:09:47.822
+!MESSAGE  WARN [2011-12-13 09:09:47,821] (ProjectController.java:getRemotePackageNames:882) - Unable to get project packages for project 'production': Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 09:09:47.878
+!MESSAGE  WARN [2011-12-13 09:09:47,877] (ProjectOrganizationPage.java:prepareNextPage:258) - Unable to login: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 09:12:50.453
+!MESSAGE  WARN [2011-12-13 09:12:50,452] (BaseRetryAspect.java:isLoginExceptionRetryable:95) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 09:12:50.455
+!MESSAGE  WARN [2011-12-13 09:12:50,454] (BaseRetryAspect.java:isConnectionExceptionRetryable:131) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 09:12:50.457
+!MESSAGE  WARN [2011-12-13 09:12:50,456] (ProjectController.java:getRemotePackageNames:882) - Unable to get project packages for project 'production': Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 09:12:50.470
+!MESSAGE  WARN [2011-12-13 09:12:50,469] (ProjectOrganizationPage.java:prepareNextPage:258) - Unable to login: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:38:21.718
+!MESSAGE  WARN [2011-12-13 10:38:21,693] (Utils.java:loadDocument:823) - Unable to load document: /Users/roberto/Dropbox/Proyectos/sixth/force/.metadata/.plugins/com.salesforce.ide.core/packageCache.xml (No such file or directory)
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:38:30.243
+!MESSAGE  WARN [2011-12-13 10:38:30,242] (ComponentFactory.java:getComponentBean:1140) - Unable to get component for id 'BusinessProcess': Unable to get bean for id 'BusinessProcess'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:38:30.245
+!MESSAGE  WARN [2011-12-13 10:38:30,244] (ComponentFactory.java:getComponentBean:1140) - Unable to get component for id 'CustomField': Unable to get bean for id 'CustomField'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:38:30.246
+!MESSAGE  WARN [2011-12-13 10:38:30,246] (ComponentFactory.java:getComponentBean:1140) - Unable to get component for id 'CustomLabel': Unable to get bean for id 'CustomLabel'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:38:31.592
+!MESSAGE  WARN [2011-12-13 10:38:31,591] (ComponentFactory.java:getComponentBean:1140) - Unable to get component for id 'FieldSet': Unable to get bean for id 'FieldSet'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:38:31.616
+!MESSAGE  WARN [2011-12-13 10:38:31,615] (ComponentFactory.java:getComponentBean:1140) - Unable to get component for id 'ListView': Unable to get bean for id 'ListView'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:38:31.617
+!MESSAGE  WARN [2011-12-13 10:38:31,616] (ComponentFactory.java:getComponentBean:1140) - Unable to get component for id 'NamedFilter': Unable to get bean for id 'NamedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:38:31.620
+!MESSAGE  WARN [2011-12-13 10:38:31,619] (ComponentFactory.java:getComponentBean:1140) - Unable to get component for id 'RecordType': Unable to get bean for id 'RecordType'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:38:32.180
+!MESSAGE  WARN [2011-12-13 10:38:32,180] (ComponentFactory.java:getComponentBean:1140) - Unable to get component for id 'SharingReason': Unable to get bean for id 'SharingReason'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:38:32.184
+!MESSAGE  WARN [2011-12-13 10:38:32,183] (ComponentFactory.java:getComponentBean:1140) - Unable to get component for id 'ValidationRule': Unable to get bean for id 'ValidationRule'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:38:32.186
+!MESSAGE  WARN [2011-12-13 10:38:32,185] (ComponentFactory.java:getComponentBean:1140) - Unable to get component for id 'WebLink': Unable to get bean for id 'WebLink'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:38:32.199
+!MESSAGE  WARN [2011-12-13 10:38:32,198] (ComponentFactory.java:getComponentBean:1140) - Unable to get component for id 'WorkflowAlert': Unable to get bean for id 'WorkflowAlert'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:38:32.201
+!MESSAGE  WARN [2011-12-13 10:38:32,200] (ComponentFactory.java:getComponentBean:1140) - Unable to get component for id 'WorkflowFieldUpdate': Unable to get bean for id 'WorkflowFieldUpdate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:38:32.223
+!MESSAGE  WARN [2011-12-13 10:38:32,201] (ComponentFactory.java:getComponentBean:1140) - Unable to get component for id 'WorkflowOutboundMessage': Unable to get bean for id 'WorkflowOutboundMessage'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:38:32.224
+!MESSAGE  WARN [2011-12-13 10:38:32,224] (ComponentFactory.java:getComponentBean:1140) - Unable to get component for id 'WorkflowRule': Unable to get bean for id 'WorkflowRule'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:38:32.226
+!MESSAGE  WARN [2011-12-13 10:38:32,225] (ComponentFactory.java:getComponentBean:1140) - Unable to get component for id 'WorkflowTask': Unable to get bean for id 'WorkflowTask'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:39:47.654
+!MESSAGE  WARN [2011-12-13 10:39:47,653] (ConnectionFactory.java:clearCache:212) - Clearing the following cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:39:47.656
+!MESSAGE  WARN [2011-12-13 10:39:47,655] (DescribeObjectRegistry.java:clearCache:657) - Clearing cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2011-12-13 10:39:47.665
+!MESSAGE  WARN [2011-12-13 10:39:47,665] (MetadataFactory.java:clearCache:123) - Clearing the following cached metadata stubs
+
